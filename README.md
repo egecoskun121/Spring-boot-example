@@ -18,3 +18,7 @@ Mutation documentation
 Query documentation
 
 ![proje4](https://user-images.githubusercontent.com/77891949/152701654-558f0eac-9575-4289-9d54-342ab777621c.PNG)
+
+PosgreSql -example
+![proje6](https://user-images.githubusercontent.com/77891949/152701871-28568e10-07dd-4042-a50f-d7e64511de87.PNG)
+
